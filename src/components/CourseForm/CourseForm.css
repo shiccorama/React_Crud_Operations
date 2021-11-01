@@ -1,0 +1,25 @@
+.main-form{
+    width: 90%;
+    margin: 0.1em auto;
+    color:#fef5c8;
+}
+
+#course-name{
+    width: 60%;
+    border: 0px;
+    padding: 0.1em;
+    height: 2.5em;
+    font-weight: 700;
+}
+
+#submit{
+    width: 39%;
+    height: 2.5em;
+    border: 3em 1em;
+    padding: 0.1em;
+    background-color: #fef5c8;
+    color: #013750;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 700;
+}
